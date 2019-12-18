@@ -1,2 +1,5 @@
-# MERN-ECommerce
-This is the blue print for the e-commerce web app build with MERN
+EHF
+
+Code structures: MongoDB, NodeJS, Express, React.
+Host and other: Jenkins, AWS EC2, Route 53, SES, Nginx, Cerbot, Redux.
+TESTING: Mocha, Chai, Jest, Enzyme.  
